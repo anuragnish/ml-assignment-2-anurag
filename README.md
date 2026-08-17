@@ -18,7 +18,7 @@ The 30 predictors describe the mean, standard error, and worst/largest values of
 
 ## c. GitHub repository link
 
-**Replace before submission:** `https://github.com/<YOUR-USERNAME>/<YOUR-REPOSITORY>`
+**Replace before submission:** `https://github.com/anuragnish/ml-assignment-2-anurag
 
 ## Live Streamlit app
 
