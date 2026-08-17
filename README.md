@@ -70,23 +70,3 @@ project-folder/
     ├── metadata.json
     └── metrics.json
 ```
-
-## Local execution
-
-1. Create and activate a Python virtual environment.
-2. Install packages with `pip install -r requirements.txt`.
-3. Rebuild artifacts if required with `python train_models.py`.
-4. Start the application with `streamlit run app.py`.
-5. Upload the supplied `test_data.csv`, select each model, and verify the metrics and confusion matrix.
-
-## Streamlit Community Cloud deployment
-
-1. Push the complete project folder to a public GitHub repository.
-2. Sign in at [Streamlit Community Cloud](https://streamlit.io/cloud) using GitHub.
-3. Select **New app**, choose the repository and `main` branch, and set the entry file to `app.py`.
-4. Deploy and confirm that the URL opens without errors.
-5. Test the upload, model dropdown, metrics, confusion matrix, and classification report.
-
-## Academic-integrity note
-
-The implementation uses explicit pipelines, upload validation, a customized diagnostic dashboard, reproducible artifacts, and project-specific observations. Review and understand every section, make your own Git commits while developing/testing, and do not submit placeholders.
