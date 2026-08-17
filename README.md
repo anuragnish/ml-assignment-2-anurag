@@ -22,7 +22,7 @@ The 30 predictors describe the mean, standard error, and worst/largest values of
 
 ## Live Streamlit app
 
-**Replace before submission:** `https://<YOUR-APP-NAME>.streamlit.app`
+**Replace before submission:**  https://anurag-ml-assignment-2.streamlit.app/
 
 ## d. Models used and comparison
 
