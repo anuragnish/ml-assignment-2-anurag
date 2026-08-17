@@ -18,11 +18,11 @@ The 30 predictors describe the mean, standard error, and worst/largest values of
 
 ## c. GitHub repository link
 
-**Replace before submission:** `https://github.com/anuragnish/ml-assignment-2-anurag
+https://github.com/anuragnish/ml-assignment-2-anurag
 
 ## Live Streamlit app
 
-**Replace before submission:**  https://anurag-ml-assignment-2.streamlit.app/
+https://anurag-ml-assignment-2.streamlit.app/
 
 ## d. Models used and comparison
 
